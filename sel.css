@@ -1,0 +1,11 @@
+img{
+
+display: grid;
+position: relative;
+
+}
+
+body{
+    background-color: bisque  ;
+    text-align: center;
+}
