@@ -1,0 +1,66 @@
+body {
+       background-color: #C77DFF;
+}
+.title{
+     width: max-content;
+     height: fit-content;
+}
+/* main  image */
+.mainimg{
+  padding: 10% 0% ;
+  margin: auto;
+  align-items: center;
+}
+/* Navbar branding  */
+.navbar-brand{
+  text-align: center;
+  font-size: 2rem;
+
+}
+.container-row{
+  padding-bottom: 0%;
+}
+.mainTex{
+  padding: 10% 0%;
+  padding-bottom: 0%;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  text-align: center;
+  text-shadow: aqua ;
+
+}
+.btn{
+  margin: 4px;
+}
+
+.button >.btn-lg{
+  font-size: 2.5rem;
+}
+/* button to login style */
+.button{
+  float: left;
+  padding-left: 65%;
+  padding-top: 0%;
+}
+/*.lists{
+  font-size: 2rem;
+}
+mainText heading and matter
+
+*/
+/* Footer */
+.container-fluid{
+  padding: 7% 15%;
+}
+#footer{
+  text-align: center;
+
+}
+
+@media(max-width:768px)
+{
+  .button{
+    padding-left:  0%;
+    margin: auto;
+  }
+}
