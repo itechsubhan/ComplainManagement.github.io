@@ -1,11 +1,8 @@
-img{
+/* img{
+    width: 10%;
+    height: 100%;
+/* } 
 
-display: grid;
-position: relative;
-
-}
-
-body{
-    background-color: bisque  ;
-    text-align: center;
-}
+.carousel-item{
+    width: 1920px;
+    height: 1080px; */
